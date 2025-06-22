@@ -1,5 +1,5 @@
 # Machine Learning
-  
+
 GitHub repository for a machine learning laboratory project collection.
 
 ## Project Title: College Machine Learning Lab
